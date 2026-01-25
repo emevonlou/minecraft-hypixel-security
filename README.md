@@ -44,21 +44,9 @@ cd scripts/linux
 chmod +x basic_security_check.sh minecraft_mod_check.sh
 ./basic_security_check.sh
 ./minecraft_mod_check.sh
+
 # Minecraft Hypixel Security
 
-Educational repository focused on security awareness for Minecraft players,
-with emphasis on Hypixel.
+English version: en-us/README.md
 
-## Languages
-- Português (pt-br)
-- English (en-us)
-
-## Platforms
-- Linux
-- Windows
-
-## Scripts
-This repository contains **local security check scripts**.
-They are read-only and do NOT collect or send data.
-
-This project does not provide cheats, hacks, or bypasses.
+Versão em português: pt-br/README.md
