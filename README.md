@@ -1,7 +1,7 @@
 # Minecraft Hypixel Security
 
 Este é um **repositório educacional** focado em **segurança para jogadores de Minecraft**, com ênfase no servidor **Hypixel**.  
-Aqui você vai aprender a **olhar, analisar e se proteger**, sem precisar quebrar nada — tudo de forma **local e segura**.
+Aqui você vai aprender a **olhar, analisar e se proteger**, sem precisar quebrar nada, tudo de forma **local e segura**.
 
 ---
 
