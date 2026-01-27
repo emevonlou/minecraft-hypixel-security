@@ -1,12 +1,5 @@
 #!/bin/bash
 
-# Minecraft Mod Security Check (Linux)
-# Mood: Friendly, but suspicious
-# Purpose: Inspect mods. Touch nothing. Judge silently.
-
-
-#!/bin/bash
-
 # minecraft_mod_check.sh
 # Purpose: Basic security awareness checks for Minecraft mods
 # Focus: Local filesystem inspection only
