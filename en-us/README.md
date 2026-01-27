@@ -1,46 +1,57 @@
-# Minecraft Hypixel Security 
+# Minecraft Hypixel Security – Blue Team Guide (EN)
 
-This is an **educational repository** focused on **security for Minecraft players**, especially on the **Hypixel** server.  
-Here you will learn how to **look, analyze, and protect yourself**, safely and locally — no cheating, no hacks, just smart observation.
+This repository aims to help Minecraft players, especially Hypixel players, assess the security of their own computer before, during, and after playing.
 
----
+The focus is not to accuse, not to exploit, and not to bypass rules.
+This is about security awareness, Blue Team mindset, and good practices.
 
-## Available Languages
-- Português (pt-BR)
-- English (en-US)
+# What this project does:
 
----
+Performs basic risk checks on the operating system
 
-## Platforms
-- Linux
-- Windows
+Helps identify suspicious behavior in the local environment
 
----
+Reviews folders and common patterns used by mods
 
-## Included Scripts
-Currently, we have **Linux security check scripts**:
+Encourages good digital hygiene for players
 
-1. `basic_security_check.sh`  
-   - Observes processes, open ports, and risky files  
-   - Read-only, does **not collect or send data**  
-   - Just watches and judges 😏
+All checks are performed locally, with no data collection and no external connections.
 
-2. `minecraft_mod_check.sh`  
-   - Lists installed mods  
-   - Calculates SHA256 hashes  
-   - Does not execute anything, just inspects  
-   - Suspicious mods will be **judged with friendly suspicion** 👀
+# Project structure:
 
-> This project does **not provide cheats, hacks, or bypasses**.  
-> It is **educational, safe, and fun**.
+minecraft-hypixel-security/
+├── scripts/
+│   ├── linux/
+│   │   ├── basic_security_check.sh
+│   │   └── minecraft_mod_check.sh
+│   └── windows/
+│       ├── basic_security_check.ps1
+│       └── minecraft_mod_check.ps1
+├── pt-br/
+│   └── README.md
+├── en-us/
+│   └── README.md
+└── README.md
 
----
+# Who this project is for:
 
-## How to run (Linux)
-1. Open a terminal in the scripts folder:
+Players concerned about security
 
-```bash
-cd scripts/linux
-chmod +x basic_security_check.sh minecraft_mod_check.sh
-./basic_security_check.sh
-./minecraft_mod_check.sh
+Blue Team learners
+
+Information security beginners
+
+Linux and Windows users
+
+No advanced knowledge is required.
+
+# Important notice:
+
+This project does not replace antivirus, firewall, or professional security tools.
+It is meant as an educational and preventive layer.
+
+# License and ethics:
+
+Use responsibly.
+Respect Hypixel and Mojang rules.
+This project follows ethical defensive security principles.

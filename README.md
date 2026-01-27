@@ -1,52 +1,48 @@
 # Minecraft Hypixel Security
 
-Este é um **repositório educacional** focado em **segurança para jogadores de Minecraft**, com ênfase no servidor **Hypixel**.  
-Aqui você vai aprender a **olhar, analisar e se proteger**, sem precisar quebrar nada, tudo de forma **local e segura**.
+A defensive security project focused on helping Minecraft players understand and assess the security of their own systems.
 
----
+Este repositório é educacional, defensivo e ético.
+Ele não coleta dados, não interage com servidores de jogos e não viola regras.
 
-## Idiomas disponíveis
-- Português (pt-BR)
-- English (en-US)
+# Available languages:
 
----
+🇧🇷 Português: pt-br/README.md
 
-## Plataformas
-- Linux
-- Windows
+🇺🇸 English: en-us/README.md
 
----
+# Project goals:
 
-## Scripts incluídos
-Atualmente, temos scripts de **checagem de segurança Linux**:
+Promote security awareness among gamers
 
-1. `basic_security_check.sh`  
-   - Observa processos, portas abertas, arquivos perigosos  
-   - Não coleta nem envia dados  
-   - Só olha e julga 😏
+Apply Blue Team thinking to real-world player scenarios
 
-2. `minecraft_mod_check.sh`  
-   - Lista os mods instalados  
-   - Calcula hashes SHA256  
-   - Não executa nada, só observa  
-   - Mods suspeitos serão **olhados com desconfiança amigável** 👀
+Provide simple, local security checks
 
-> Este projeto **não oferece cheats, hacks ou bypasses**.  
-> É educacional, seguro e divertido.
+Encourage ethical and defensive practices
 
----
+# Disclaimer
 
-## Como executar (Linux)
-1. Abra o terminal na pasta do script:
+This project does not:
 
-```bash
-cd scripts/linux
-chmod +x basic_security_check.sh minecraft_mod_check.sh
-./basic_security_check.sh
-./minecraft_mod_check.sh
+bypass game protections
 
-# Minecraft Hypixel Security
+interfere with servers
 
-English version: en-us/README.md
+analyze other players
 
-Versão em português: pt-br/README.md
+replace professional security tools
+
+All scripts run locally and are meant for educational use.
+
+# Ethics & responsibility
+
+Respect:
+
+Hypixel rules
+
+Mojang terms
+
+Local laws
+
+Ethical security principles
