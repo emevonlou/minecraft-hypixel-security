@@ -21,7 +21,6 @@ Provide simple, local security checks
 
 Encourage ethical and defensive practices
 
----
 
 ## Roadmap
 
@@ -30,6 +29,13 @@ The future direction of this project is documented here:
 - Project roadmap: [`ROADMAP.md`](ROADMAP.md)
 
 The roadmap focuses on defensive security, education, and ethical use.
+
+
+## Player checklist
+
+A practical checklist for gamers:
+
+- [`PLAYER_CHECKLIST.md`](PLAYER_CHECKLIST.md)
 
 
 # Disclaimer
