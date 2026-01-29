@@ -1,4 +1,4 @@
-# Security check scripts – Linux
+## Security check scripts – Linux
 
 This section documents the scripts located in:
 scripts/linux/
@@ -58,3 +58,43 @@ It only promotes conscious inspection.
 # Notice:
 These scripts are educational.
 They do not replace professional security tools.
+
+
+## Security check scripts – Windows
+
+Location:
+scripts/windows/
+
+
+## basic_security_check.ps1
+
+**Purpose:**  
+Run basic Windows security checks.
+
+**What it checks:**
+- running processes
+- basic permissions
+- environment variables
+- common risk directories
+
+**What it does NOT do:**
+- no data collection
+- no server interaction
+- no system modification
+- no game interaction
+
+
+## minecraft_mod_check.ps1
+
+**Purpose:**  
+Encourage conscious review of installed mods.
+
+**What it does:**
+- checks common mod folders
+- flags unusual names
+- promotes manual inspection
+
+**Notice:**  
+It does not claim anything is malicious.  
+It is educational only.
+
