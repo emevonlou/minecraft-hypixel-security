@@ -23,3 +23,6 @@ Write-Host "If a mod asks for administrator permissions, the answer is probably 
 
 Write-Host "`nSecurity check finished."
 Write-Host "Nothing was changed."
+
+Write-Host "Check complete" -ForegroundColor Green
+exit 0

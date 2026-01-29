@@ -4,6 +4,9 @@
 # Purpose: Perform basic local security checks for Linux systems
 # Context: Minecraft players (Hypixel-focused), Blue Team mindset
 # Scope: Local system only — no network scanning, no exploitation
+GREEN="\e[32m"
+RED="\e[31m"
+RESET="\e[0m"
 
 echo "=============================================="
 echo " Basic Security Check - Linux"
@@ -89,3 +92,4 @@ echo " Review the output carefully."
 echo " No automatic actions were taken."
 echo "=============================================="
 
+exit 0
