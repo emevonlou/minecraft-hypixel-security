@@ -13,3 +13,7 @@ echo
 echo "This module will analyze local connections."
 echo "No external monitoring is performed."
 echo
+
+echo "[+] Active network connections (local)"
+ss -tuna | head -n 20
+echo

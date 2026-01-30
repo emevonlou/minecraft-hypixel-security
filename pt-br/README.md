@@ -55,3 +55,4 @@ Ele serve como camada educativa e preventiva.
 Use com responsabilidade.
 Respeite as regras do Hypixel e da Mojang.
 Este projeto segue princípios éticos de segurança defensiva.
+
