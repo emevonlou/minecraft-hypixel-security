@@ -99,3 +99,4 @@ Ajudar na revisão consciente de mods instalados.
 Não afirma que algo é malicioso.  
 É apenas ferramenta educativa.
 
+- Network Awareness Check (verificação de conexões locais)
