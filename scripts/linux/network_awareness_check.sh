@@ -17,3 +17,7 @@ echo
 echo "[+] Active network connections (local)"
 ss -tuna | head -n 20
 echo
+
+echo "[+] Processes using network"
+lsof -i -P -n | head -n 15
+echo
