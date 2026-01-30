@@ -21,3 +21,9 @@ echo
 echo "[+] Processes using network"
 lsof -i -P -n | head -n 15
 echo
+
+echo "[+] Listening ports"
+ss -lntp | head -n 15
+echo
+
+echo "Network awareness check completed."
