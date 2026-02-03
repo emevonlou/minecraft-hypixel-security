@@ -99,4 +99,17 @@ Ajudar na revisão consciente de mods instalados.
 Não afirma que algo é malicioso.  
 É apenas ferramenta educativa.
 
-- Network Awareness Check (verificação de conexões locais)
+
+## Network Awareness Check (Windows)
+
+Versão Windows do módulo de consciência de rede.
+
+Este script permite:
+- visualizar conexões de rede ativas
+- identificar processos que utilizam a rede
+- observar portas abertas no sistema
+
+Tudo é feito localmente.
+Nenhum tráfego é interceptado.
+Nenhum dado externo é coletado.
+

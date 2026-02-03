@@ -98,3 +98,16 @@ Encourage conscious review of installed mods.
 It does not claim anything is malicious.  
 It is educational only.
 
+
+## Network Awareness Check (Windows)
+
+Windows version of the network awareness module.
+
+This script allows users to:
+- view active network connections
+- identify processes using the network
+- observe listening ports
+
+All checks are local.
+No traffic interception.
+No external data collection.
