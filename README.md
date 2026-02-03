@@ -63,3 +63,11 @@ Mojang terms
 Local laws
 
 Ethical security principles
+
+## Why this project exists
+
+This project was created to help players understand their own systems
+before blaming games, servers, or other users.
+
+It promotes defensive security, transparency, and ethical learning
+without invading privacy or violating platform rules.

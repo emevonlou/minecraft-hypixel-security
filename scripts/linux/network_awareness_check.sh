@@ -4,6 +4,11 @@
 # Focus: Local connections and processes only
 # Non-destructive script
 
+VERBOSE=false
+if [ "$1" = "--verbose" ]; then
+  VERBOSE=true
+fi
+
 echo "=============================================="
 echo " Network Awareness Check - Linux"
 echo " Local network observation only"
