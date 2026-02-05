@@ -1,0 +1,9 @@
+reports/*.txt
+reports/*.log
+reports/*.json
+
+# Runtime reports (never commit)
+reports/
+*.report
+*_report_*.txt
+report_*.txt
