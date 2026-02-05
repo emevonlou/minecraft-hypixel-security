@@ -11,3 +11,6 @@ report_*.txt
 # Editor backup files
 *.save
 *.save.*
+
+# Local backups (never commit)
+app_backup/
