@@ -14,3 +14,7 @@ report_*.txt
 
 # Local backups (never commit)
 app_backup/
+
+# Experimental scripts
+scripts/linux/lunar_hypixel_baseline.sh
+
