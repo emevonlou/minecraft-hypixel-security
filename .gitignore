@@ -7,3 +7,7 @@ reports/
 *.report
 *_report_*.txt
 report_*.txt
+
+# Editor backup files
+*.save
+*.save.*
